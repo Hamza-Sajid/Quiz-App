@@ -1,0 +1,53 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+
+}
+.logo
+{
+    display: block;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+.welcome-page
+{
+    background-image: url('../src//assets/Science-Quiz.png')!important;
+    width: 100%;
+    height: 100%;
+}
+
+.btn
+{
+    border:none;
+    
+    background-color: white;
+    border-radius: 10px;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding: 0.5em;
+    display: block;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.btn:hover
+{
+    background-color: black;
+    color: rgb(58, 207, 120);
+}
+
+.card
+{
+    display: block!important;
+    margin: auto!important;;
+}
+
+.btn-hover:hover
+{
+    background-color: black;
+    color:white;
+}
